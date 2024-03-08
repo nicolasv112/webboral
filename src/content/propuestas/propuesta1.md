@@ -1,15 +1,15 @@
 ---
-
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: DESARROLLADOR DE SOFTWARE
-modalidad: presencial
-ubicacion: Don Torcuato,Buenos Aires
-disponibilidad: part time
+title: "DESARROLLADOR DE SOFTWARE"
+modalidad: "presencial"
+ubicacion: "Don Torcuato,Buenos Aires"
+disponibilidad: "part time"
 vacantes: 4
-empresa:Confidencial
+empresa: "Confidencial"
 
-description: Nos encontramos en la búsqueda de un desarrollador con las capacidades de manejo de nuestro sistema para la gestión de la producción, stock y trazabilidad.
+description: "Nos encontramos en la búsqueda de un desarrollador con las capacidades de manejo de nuestro sistema para la gestión de la producción, stock y trazabilidad."
+---
 
 TAREAS A REALIZAR:
 

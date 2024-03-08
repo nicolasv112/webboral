@@ -1,14 +1,14 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: Tecnico instalador
-modalidad: presencial
-ubicacion: Capital Federal,Buenos Aires
-disponibilidad: full time
+title: "Tecnico instalador"
+modalidad: "presencial"
+ubicacion: "Capital Federal,Buenos Aires"
+disponibilidad: "full time"
 vacantes: 1
-empresa: SELECTA
+empresa: "SELECTA"
 
-description: Importante empresa de seguridad electronica se encuentra en la búsqueda de un Técnico Instalador de Sistemas de Seguridad Electrónica para una importante empresa ubicada en Boedo, Capital Federal, Buenos Aires.Si contas con experiencia en instalaciones de CCTV, alarmas, control de accesos o redes estructuradas, ademas poseer el título de Técnico en Electrónica o Electricidad y licencia de conducir vigente, sera el plus!
+description: "Importante empresa de seguridad electronica se encuentra en la búsqueda de un Técnico Instalador de Sistemas de Seguridad Electrónica para una importante empresa ubicada en Boedo, Capital Federal, Buenos Aires.Si contas con experiencia en instalaciones de CCTV, alarmas, control de accesos o redes estructuradas, ademas poseer el título de Técnico en Electrónica o Electricidad y licencia de conducir vigente, sera el plus!"
 ---
 
 Se ofrece:

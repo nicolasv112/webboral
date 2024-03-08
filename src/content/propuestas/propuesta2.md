@@ -1,14 +1,14 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: Analista Técnico en Infraestructura/Soporte
-modalidad: presencial
-ubicacion: Capital federal,Buenos Aires
-disponibilidad: full time
+title: "Analista Técnico en Infraestructura/Soporte"
+modalidad: "presencial"
+ubicacion: "Capital federal,Buenos Aires"
+disponibilidad: "full time"
 vacantes: 3
-empresa: Obra social sindical
+empresa: "Obra social sindical"
 
-description: Importante Obra Social sindical con más de 20 años de trayectoria incorporara a su Staff de Sistemas.Persona dinámica, responsable, proactiva que pueda agregar valor a los proyectos tecnológicos encarados dentro de la organización.
+description: "Importante Obra Social sindical con más de 20 años de trayectoria incorporara a su Staff de Sistemas.Persona dinámica, responsable, proactiva que pueda agregar valor a los proyectos tecnológicos encarados dentro de la organización."
 ---
 
 Las principales tareas consistirán en:

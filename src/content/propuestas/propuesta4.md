@@ -1,14 +1,14 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: TÉCNICO INFORMÁTICO
-modalidad: presencial
-ubicacion: Capital Federal,Buenos Aires
-disponibilidad: full time
+title: "TÉCNICO INFORMÁTICO"
+modalidad: "presencial"
+ubicacion: "Capital Federal,Buenos Aires"
+disponibilidad: "full time"
 vacantes: 7
-empresa: Confidencial
+empresa: "Confidencial"
 
-description: Somos un local informático, con laboratorio propio con mas de 3 7 años en la zona, dedicado al soporte técnico para Empresas y particulares.
+description: "Somos un local informático, con laboratorio propio con mas de 3 7 años en la zona, dedicado al soporte técnico para Empresas y particulares."
 ---
 
 Estamos en la búsqueda de un técnico informático con experiencia excluyente.

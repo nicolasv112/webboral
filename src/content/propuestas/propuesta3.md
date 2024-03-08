@@ -1,14 +1,14 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: Tecnico para soporte
-modalidad: presencial
-ubicacion: Capital Federal,Buenos Aires
-disponibilidad: part time
+title: "Tecnico para soporte"
+modalidad: "presencial"
+ubicacion: "Capital Federal,Buenos Aires"
+disponibilidad: "part time"
 vacantes: 5
-empresa: Confidencial
+empresa: "Confidencial"
 
-description: Importante laboratorio de analisis clinicos incorporara Tecnico para soporte con experiencia comprobable en soporte a usuarios.
+description: "Importante laboratorio de analisis clinicos incorporara Tecnico para soporte con experiencia comprobable en soporte a usuarios."
 ---
 
 Requisitos: Conocimientos de diagnostico general. Sistemas Operativos. Conocimiento excluyente de Google Suite. Conocimiento de Redes, cableado y configuraciones. Experiencia en diagnostico y reparacion de PC.

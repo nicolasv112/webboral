@@ -1,13 +1,13 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: Técnico Instalador De sistemas de Seguridad Electrónica
-modalidad: presencial
-ubicacion: Capital Federal,Buenos Aires
-disponibilidad: full time
+title: "Técnico Instalador De sistemas de Seguridad Electrónica"
+modalidad: "presencial"
+ubicacion: "Capital Federal,Buenos Aires"
+disponibilidad: "full time"
 vacantes: 1
-empresa: Lumat,seguridad y control
-description: Estamos en la búsqueda de un técnico con experiencia en instalación y mantenimiento de Sistemas de Seguridad Electrónica.
+empresa: "Lumat,seguridad y control"
+description: "Estamos en la búsqueda de un técnico con experiencia en instalación y mantenimiento de Sistemas de Seguridad Electrónica."
 ---
 
 Requisitos:

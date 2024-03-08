@@ -1,13 +1,13 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: Especialista en Soporte Técnico - Nivel 1
-modalidad: presencial
-ubicacion: Capital Federal,Buenos Aires
-disponibilidad: full time
+title: "Especialista en Soporte Técnico - Nivel 1"
+modalidad: "presencial"
+ubicacion: "Capital Federal,Buenos Aires"
+disponibilidad: "full time"
 vacantes: 1
-empresa: Silicon Aid
-description: El técnico N 1 es el primer punto de contacto para los clientes que presentan problemas con los productos o servicios de la empresa. Se encarga de atender las consultas de los usuarios, resolver problemas sencillos y escalar los problemas más complejos al siguiente nivel de soporte.
+empresa: "Silicon Aid"
+description: "El técnico N 1 es el primer punto de contacto para los clientes que presentan problemas con los productos o servicios de la empresa. Se encarga de atender las consultas de los usuarios, resolver problemas sencillos y escalar los problemas más complejos al siguiente nivel de soporte."
 ---
 
 Responsabilidades y tareas a desarrollar

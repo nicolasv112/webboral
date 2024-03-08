@@ -1,13 +1,13 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: Soporte Técnico de Internet Nivel 2 - Empresa Proveedora de Servicio de Internet
-modalidad: presencial
-ubicacion: Neuquen, Neuquen
-disponibilidad: full time
+title: "Soporte Técnico de Internet Nivel 2 - Empresa Proveedora de Servicio de Internet"
+modalidad: "presencial"
+ubicacion: "Neuquen, Neuquen"
+disponibilidad: "full time"
 vacantes: 1
-empresa: Estudio Sánchez Salas &amp; Asociados
-description: Nos encontramos en la búsqueda de un Técnico Electrónico para brindar Soporte Técnico de Internet Nivel 2 para trabajar en una importante Empresa proveedora de servicio de Internet de la Ciudad de Neuquén.
+empresa: "Estudio Sánchez Salas &amp; Asociados"
+description: "Nos encontramos en la búsqueda de un Técnico Electrónico para brindar Soporte Técnico de Internet Nivel 2 para trabajar en una importante Empresa proveedora de servicio de Internet de la Ciudad de Neuquén."
 ---
 
 - Brindar soporte a empresas y usuarios de nuestros servicios de internet.

@@ -1,14 +1,14 @@
 ---
-author: Nicolas Villarroel
+author: "Nicolas Villarroel"
 pubDatetime: 2022-09-23T15:22:00Z
-title: SOPORTE TÉCNICO SSR/SR
-modalidad: Presencial
-ubicacion: Capital Federal,Buenos Aires
-disponibilidad: full time
+title: "SOPORTE TÉCNICO SSR/SR"
+modalidad: "Presencial"
+ubicacion: "Capital Federal,Buenos Aires"
+disponibilidad: "full time"
 vacantes: 1
-empresa: Confidencial
+empresa: "Confidencial"
 
-description: Estamos en la busqueda de un recurso que cuente con experiencia mínima de 5 años en mantenimientos de infraestructura y atención a usuarios.Quien ocupe esta posición será encargado de gestionar tareas desde soporte a usuarios hasta la administración de redes de comunicaciones.
+description: "Estamos en la busqueda de un recurso que cuente con experiencia mínima de 5 años en mantenimientos de infraestructura y atención a usuarios.Quien ocupe esta posición será encargado de gestionar tareas desde soporte a usuarios hasta la administración de redes de comunicaciones."
 ---
 
 Dentro de sus funciones se encuentra:
