@@ -1,24 +1,16 @@
 ---
 author: Nicolas Villarroel
 pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
 title: Analista Técnico en Infraestructura/Soporte
 modalidad: presencial
 ubicacion: Capital federal,Buenos Aires
 disponibilidad: full time
 vacantes: 3
 empresa: Obra social sindical
-slug: adding-new-posts-in-astropaper-theme
-featured: true
-draft: false
-tags:
-  - docs
-description: Importante Obra Social sindical con más de 20 años de trayectoria incorporara a su Staff de Sistemas
 
-Persona dinámica, responsable, proactiva que pueda agregar valor a los proyectos tecnológicos encarados dentro de la organización.
-
-
+description: Importante Obra Social sindical con más de 20 años de trayectoria incorporara a su Staff de Sistemas.Persona dinámica, responsable, proactiva que pueda agregar valor a los proyectos tecnológicos encarados dentro de la organización.
 ---
+
 Las principales tareas consistirán en:
 
 Supervisar servicios relacionados con infraestructura (Windows)
@@ -45,4 +37,3 @@ Servicio de almuerzo incluido.
 Prepaga.
 Buen clima organización.
 Si queres ser parte no dudes en enviar tu curriculum e indicar remuneración pretendida. Muchas gracias!
-

@@ -1,24 +1,16 @@
 ---
+
 author: Nicolas Villarroel
 pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
 title: DESARROLLADOR DE SOFTWARE
 modalidad: presencial
 ubicacion: Don Torcuato,Buenos Aires
-disponibilidad: part time 
+disponibilidad: part time
 vacantes: 4
 empresa:Confidencial
-slug: adding-new-posts-in-astropaper-theme
-featured: true
-draft: false
-tags:
-  - docs
+
 description: Nos encontramos en la búsqueda de un desarrollador con las capacidades de manejo de nuestro sistema para la gestión de la producción, stock y trazabilidad.
 
-
-
- 
----
 TAREAS A REALIZAR:
 
 Analisis, desarrolo y soporte de Software.

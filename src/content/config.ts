@@ -2,8 +2,7 @@ import { SITE } from "@config";
 import { defineCollection, z } from "astro:content";
 
 const propuestas = defineCollection({
-  type: "content",
-  schema: ({ image }) =>
+  schema: () =>
     z.object({
       author: z.string().default(SITE.author),
       pubDatetime: z.date(),
